@@ -66,7 +66,7 @@ Creación de entornos virtualizados para experimentar con:
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Karmawillhityou&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Creación de entornos virtualizados para experimentar con:
 ## 🖥️ Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmawillhityou&layout=compact&theme=tokyonight" />
 </p>
 
 ---
